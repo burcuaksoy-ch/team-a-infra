@@ -1,0 +1,4 @@
+# Never push kubeconfig (contains tokens)
+kubeconfig.yaml
+*kubeconfig*.yaml
+*.kubeconfig
